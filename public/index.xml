@@ -51,11 +51,11 @@
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
-      <title>Privacy</title>
+      <title>Privacy Policy</title>
       <link>http://localhost:1313/chlprep/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/chlprep/privacy-policy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Responsibility of Contributors Our website is committed to protecting the privacy and security of our users&amp;rsquo; personal information.</description>
     </item>
     <item>
       <title>Ready to build your next project with Hugo?</title>

@@ -15,11 +15,11 @@
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
-      <title>Privacy</title>
+      <title>Privacy Policy</title>
       <link>http://localhost:1313/chlprep/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/chlprep/privacy-policy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Responsibility of Contributors Our website is committed to protecting the privacy and security of our users&amp;rsquo; personal information.</description>
     </item>
   </channel>
 </rss>
